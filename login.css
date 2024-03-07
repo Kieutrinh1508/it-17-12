@@ -1,0 +1,36 @@
+*{
+    color: red;
+}
+
+body{
+    margin: 0 ;
+    background-color: grey;
+    height: 100vh;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: beige;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 19%;
+}
+.field{
+    margin-top: 7px;
+}
+
+button{
+    padding: 7px 10px;
+    margin: 5px 0;
+}
+
+a{
+    margin-bottom: 23px;
+}
+
+input{
+    
+}
